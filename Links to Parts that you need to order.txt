@@ -13,3 +13,10 @@ https://www.amazon.com/ZUPAYIPA-Solder-Rocker-Switch-Toggle/dp/B01N2U8PK0/ref=sr
 
 M3 Hardware/Bolts
 https://www.amazon.com/Andux-Stainless-Hexagon-Storage-YHLS-01/dp/B07GZL1QPB/ref=sr_1_15?keywords=m3+bolts+round&qid=1576421810&sr=8-15
+
+10A BEC for Servos
+http://www.castlecreations.com/en/accessories-5/cc-bec-010-0004-00
+
+HolyBro Pixhawk 4 Plastic Case with UBLOX GPS Module 
+https://shop.holybro.com/pixhawk-4_p1089.html
+
